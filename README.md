@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AliHassan1856
 - 👀 I'm a passionate Frontend Developer with a background in Computer Science.
 - 💞️ I love crafting modern, responsive, and interactive websites to deliver amazing user experiences.
-- 📫 Intermediate Student (1st Year)
+- 📫 Intermediate Student (2st Year)
 - 🏫 Learning From Islamia College Peshawar.
 - 📍 City:Peshawar, Country:Pakistan
 
